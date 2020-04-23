@@ -5,31 +5,15 @@ iOS开发中的设计模式
 ===
 
 
-
-    Q Q：2211523682/790806573
-
-    微信：18370997821/13148454507
-    
-    微博WB:http://weibo.com/u/3288975567?is_hot=1
-    
-	git博文：http://al1020119.github.io/
-	
-	github：https://github.com/al1020119
-
-
 {% img /images/iCocosCoder.jpg Caption %}  
 
 {% img /images/iCocosPublic.jpg Caption %}  
-
-
 
 
 本文摘自：[伯乐在线](http://ios.jobbole.com/85360/),因为自己研究并学习ios设计模式的时候寻找了好多相关文章，最后发现这篇才是最适合ios开发的，当然你也可以自己通过C或者java设计模式的规范进行演变。
 
 
 源码下载地址：[https://github.com/al1020119/iCocosDesignPattern](https://github.com/al1020119/iCocosDesignPattern)
-
-
 
 
 #对象创建
